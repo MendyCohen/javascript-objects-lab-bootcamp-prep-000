@@ -1,5 +1,4 @@
 var recipes = {};
 
-/* function */ updateObjectWithKeyAndValue() {
+ updateObjectWithKeyAndValue();
   
-}
