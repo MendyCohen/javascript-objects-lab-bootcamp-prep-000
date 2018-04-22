@@ -1,6 +1,6 @@
 var recipes = {};
  
- var newobj = {};
+// var newobj = {};
    object.assign({}, newobj, object[key] = value);
    
 
