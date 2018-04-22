@@ -7,6 +7,6 @@ var recipes = {};
   return object.assign({}, object,{key:['value', 'yep']});
  } */
   
-var updateObjectWithKeyAndValue = {object: } {
+ updateObjectWithKeyAndValue {
   return object.assign({}, object,{key:['value', 'yep']});
  } 
